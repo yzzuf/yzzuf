@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" width="40" height="40"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
