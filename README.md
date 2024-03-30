@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **something cool!**
 
 - 🌱 I’m currently learning **everything** 🤓
-- 
+  
 - 🤝 I’m looking for **projects to contribute to!**
 
 - 💬 Ask me about **lua, php and c++**
