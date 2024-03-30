@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **something cool!**
 
-- 👯 I’m looking to collaborate on **a**
-
 - 💬 Ask me about **lua, php and c++**
 
 - ⚡ Fun fact **i dont have friends (joke)**
