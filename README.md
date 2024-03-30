@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jonathan (aka fuzzy)</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend dev from BRASIL and a Cybersecurity Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yzzuf&label=Profile%20views&color=0e75b6&style=flat" alt="yzzuf" /> </p>
 
 - 🔭 I’m currently working on **something cool!**
+
+- 🌱 I’m currently learning **everything** 🤓
+- 
+- 🤝 I’m looking for **projects to contribute to!**
 
 - 💬 Ask me about **lua, php and c++**
 
@@ -11,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="truefuzzy" width="40" height="40"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
