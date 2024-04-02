@@ -7,16 +7,6 @@
 </div>
 
 <div align="center">
-  <ul>
-    <p>- 🔭 I’m currently working on <strong>something cool!</strong></p>
-    <p>- 🌱 I’m currently learning <strong>everything</strong> 🤓</p>
-    <p>- 🤝 I’m looking for <strong>projects to contribute to!</strong></p>
-    <p>- 💬 Ask me about <strong>lua, php and c++</strong></p>
-    <p>- ⚡ Fun fact <strong>i dont have friends (joke)</strong></p>
-  </ul>
-</div>
-
-<div align="center">
   <h3>Connect with me:</h3>
   <a href="https://discord.gg/Kdycu4r5"><img src="https://skillicons.dev/icons?i=discord" alt="truefuzzy"/></a>
 </div>
