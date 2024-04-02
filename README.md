@@ -1,26 +1,27 @@
-<img src="https://i.imgur.com/O9mb1II.png" align="center"/>
+<div align="center">
+  <img src="https://i.imgur.com/O9mb1II.png" />
+</div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yzzuf&label=Profile%20views&color=0e75b6&style=flat" alt="yzzuf" /> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yzzuf&label=Profile%20views&color=0e75b6&style=flat" alt="yzzuf" />
+</div>
 
-<p align="center">
-- 🔭 I’m currently working on **something cool!**
+<div align="center">
+  <ul>
+    <li>🔭 I’m currently working on <strong>something cool!</strong></li>
+    <li>🌱 I’m currently learning <strong>everything</strong> 🤓</li>
+    <li>🤝 I’m looking for <strong>projects to contribute to!</strong></li>
+    <li>💬 Ask me about <strong>lua, php and c++</strong></li>
+    <li>⚡ Fun fact <strong>i dont have friends (joke)</strong></li>
+  </ul>
+</div>
 
-- 🌱 I’m currently learning **everything** 🤓
-  
-- 🤝 I’m looking for **projects to contribute to!**
+<div align="center">
+  <h3>Connect with me:</h3>
+  <a href="https://discord.gg/Kdycu4r5"><img src="https://skillicons.dev/icons?i=discord" alt="truefuzzy"/></a>
+</div>
 
-- 💬 Ask me about **lua, php and c++**
-
-- ⚡ Fun fact **i dont have friends (joke)**
-</p>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://discord.gg/Kdycu4r5"><img src="https://skillicons.dev/icons?i=discord" alt="truefuzzy"/> <a/>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<div align="center">
+  <h3>Languages and Tools:</h3>
   <img src="https://skillicons.dev/icons?i=lua,php,postgres,mysql,js,html,visualstudio" />
-</p>
-
+</div>
