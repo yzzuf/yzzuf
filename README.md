@@ -9,6 +9,7 @@
 <div align="center">
   <h3>Connect with me:</h3>
   <a href="https://discord.gg/Kdycu4r5"><img src="https://skillicons.dev/icons?i=discord" alt="truefuzzy"/></a>
+  <a href="https://crimson-studios.tebex.io/"><img src="https://i.imgur.com/eIvptzl.png" alt="Crimson Studios"/></a>
 </div>
 
 <div align="center">
