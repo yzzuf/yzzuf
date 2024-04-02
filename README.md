@@ -15,13 +15,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="truefuzzy" width="40" height="40"/>
+  <a href="https://discord.gg/Kdycu4r5"><img src="https://skillicons.dev/icons?i=discord" alt="truefuzzy"/> <a/>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=lua,php,postgres,mysql,js,html,visualstudio" />
 </p>
 
