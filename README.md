@@ -2,6 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yzzuf&label=Profile%20views&color=0e75b6&style=flat" alt="yzzuf" /> </p>
 
+<p align="center">
 - 🔭 I’m currently working on **something cool!**
 
 - 🌱 I’m currently learning **everything** 🤓
@@ -11,6 +12,7 @@
 - 💬 Ask me about **lua, php and c++**
 
 - ⚡ Fun fact **i dont have friends (joke)**
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
