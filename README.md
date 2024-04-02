@@ -8,11 +8,11 @@
 
 <div align="center">
   <ul>
-    <li>🔭 I’m currently working on <strong>something cool!</strong></li>
-    <li>🌱 I’m currently learning <strong>everything</strong> 🤓</li>
-    <li>🤝 I’m looking for <strong>projects to contribute to!</strong></li>
-    <li>💬 Ask me about <strong>lua, php and c++</strong></li>
-    <li>⚡ Fun fact <strong>i dont have friends (joke)</strong></li>
+    <p>- 🔭 I’m currently working on <strong>something cool!</strong></p>
+    <p>- 🌱 I’m currently learning <strong>everything</strong> 🤓</p>
+    <p>- 🤝 I’m looking for <strong>projects to contribute to!</strong></p>
+    <p>- 💬 Ask me about <strong>lua, php and c++</strong></p>
+    <p>- ⚡ Fun fact <strong>i dont have friends (joke)</strong></p>
   </ul>
 </div>
 
