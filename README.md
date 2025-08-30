@@ -9,5 +9,5 @@
 
 <div align="center">
   <h3>Languages and Tools:</h3>
-  <img src="https://skillicons.dev/icons?i=react,html,css,php,java,mongodb,mysql,python,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,html,css,php,java,mongodb,mysql,python,vscode" />
 </div>
